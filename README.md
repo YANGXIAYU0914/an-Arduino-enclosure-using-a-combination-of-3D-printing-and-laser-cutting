@@ -3,10 +3,12 @@
 At the beginning, we worked in small groups to discuss and brainstorm possible worldviews. This step was essential, as it determines the rationality and consistency of the subsequent packaging design. We came up with several worldviews and further developed each one individually. The following sketches show part of our discussion process:
 
 最开始我们以一个小组为单位，对于世界观的设定进行讨论、进行头脑风暴。这个步骤是不可缺少的，因为这决定着后续设计包装的合理性。我们想出了几个世界观，并对它进行各自的深化。以下是我们在讨论过程中的草图：
+
 <p align="center">
 <img src="photo/草图1.jpg" alt="ppt" width="500"/>
 </p>
 
+<p align="center">
 <img src="photo/草图2.jpg" alt="ppt" width="500"/>
 </p>
 
@@ -62,31 +64,102 @@ I began designing the outer packaging, which is divided into two parts: a 3D-pri
 ### 3.1 3D Printing
 I used Blender for modeling. The wing consists of three panels and two rotating shafts. The shaft design was inspired by a tutorial video with a similar structure, while the rest of the model was entirely original. Because I was not very familiar with the modeling software, I encountered quite a few challenges during the process.
 
-Important note: When modeling in Blender, it’s crucial to pay attention to scale and unit settings. STL files only store the coordinate values of points without specifying whether the numbers represent meters, centimeters, or millimeters. As a result, in Blender, 1.0 might be interpreted as 1 meter, while in other software (such as Cura or Fusion 360), the same 1.0 would be interpreted as 1 millimeter—leading to a size difference of up to 1000 times when importing the model. I consulted ChatGPT about this issue and received useful guidance.
-
-After completing the model, I proceeded to 3D print it at the school’s workshop using an Ultimaker printer with PLA material. The printing process took more than ten hours. Because the bottom surface area was quite large, the model adhered tightly to the build plate, making it somewhat difficult to remove.
-
 我使用blender进行建模，机翼由三个板块和两个转轴构成，转轴参考了一个类似结构的教学视频，其他部分完全是原创。因为对于建模软件的不熟悉，在建模过程中遇到了不少挑战。
+
+<p align="center">
+<img src="photo/建模1.jpg" alt="ppt" width="600"/>
+</p>
+
+<p align="center">
+<img src="photo/建模2.jpg" alt="ppt" width="600"/>
+</p>
+
+<p align="center">
+<img src="photo/建模3.jpg" alt="ppt" width="600"/>
+</p>
+
+Important note: When modeling in Blender, it’s crucial to pay attention to scale and unit settings. STL files only store the coordinate values of points without specifying whether the numbers represent meters, centimeters, or millimeters. As a result, in Blender, 1.0 might be interpreted as 1 meter, while in other software (such as Cura or Fusion 360), the same 1.0 would be interpreted as 1 millimeter—leading to a size difference of up to 1000 times when importing the model. I consulted ChatGPT about this issue and received useful guidance.
 
 注意点：使用blender建模需要注意尺寸问题，因为STL 文件只存储“点的坐标值”，但没有说明这些数字代表米、厘米还是毫米。所以在 Blender 中 1.0 可能代表 1 米，而在其他软件中（如 Cura 或 Fusion 360），同样的 1.0 会被理解成 1 毫米，导致模型导入时尺寸相差 1000 倍。对于这个问题，我询问了ChatGPT，它给出了以下的答案：
 
+<p align="center">
+<img src="photo/chatgpt.jpg" alt="ppt" width="600"/>
+</p>
+
+After completing the model, I proceeded to 3D print it at the school’s workshop using an Ultimaker printer with PLA material. The printing process took more than ten hours. Because the bottom surface area was quite large, the model adhered tightly to the build plate, making it somewhat difficult to remove.
+
 建模完成后需要对其进行3D打印。我在学校的工坊进行打印，使用了ultimaker打印机，材质是pla。打印一共花费十几个小时。因为与底面接触面积较大，在取下模型时，有些粘连，比较难取。
+
+<p align="center">
+<img src="photo/3D打印1.jpg" alt="ppt" width="500"/>
+</p>
+
+<p align="center">
+<img src="photo/3D打印2.jpg" alt="ppt" width="500"/>
+</p>
+
+<p align="center">
+<img src="photo/3D打印3.jpg" alt="ppt" width="500"/>
+</p>
 
 ### 3.2 Laser Cutting
 I used the MakerCase website to generate the box’s shape. The line width and kerf compensation settings were crucial. After some testing, we found suitable parameters for cutting 3mm-thick wooden boards in the school workshop, ensuring the pieces fit together tightly and securely.
 
+我使用了MakerCase网站制作盒子外形，切割线宽度和切割补偿设置非常重要。在经过我们的尝试，在学校工坊并使用3mm厚的木板进行切割时，以下这组数据是较为合适的，切出来的木板可以很紧、很牢固地组合在一起。
+
+<p align="center">
+<img src="photo/尺寸1.jpg" alt="ppt" width="600"/>
+</p>
+
+<p align="center">
+<img src="photo/尺寸2.jpg" alt="ppt" width="600"/>
+</p>
+
 I then used Adobe Illustrator (AI) to refine the drawings, leaving openings for the Arduino’s USB port and round jack.
+
+接着我使用adobe的ai对于图纸进行加工，留出了arduino的USB口和圆形插孔的位置。
+
+<p align="center">
+<img src="photo/ai1.jpg" alt="ppt" width="600"/>
+</p>
+
+<p align="center">
+<img src="photo/ai2.jpg" alt="ppt" width="600"/>
+</p>
 
 Problems encountered:
 
 Initially, I entered the board thickness as 3mm on the website, but upon measurement, the actual thickness was 2.65mm, which caused fitting issues in the joints. After correcting the dimensions and re-cutting, the parts fit perfectly.
-After cutting, I painted the wooden pieces with acrylic paint.
-
-我使用了MakerCase网站制作盒子外形，切割线宽度和切割补偿设置非常重要。在经过我们的尝试，在学校工坊并使用3mm厚的木板进行切割时，以下这组数据是较为合适的，切出来的木板可以很紧、很牢固地组合在一起。
-
-接着我使用adobe的ai对于图纸进行加工，留出了arduino的USB口和圆形插孔的位置。
 
 在激光切割过程中出现的一些问题：一开始我在网站上输入的木板厚度是3mm，但实际测量出来的结果是2.65mm，这就导致了在嵌合部分的尺寸发生了错误。后来我在网站上重新输入了尺寸，重新激光切割。这次的尺寸是合适的。
+
+<p align="center">
+<img src="photo/游标卡尺.jpg" alt="ppt" width="500"/>
+</p>
+
+<p align="center">
+<img src="photo/网站1.jpg" alt="ppt" width="500"/>
+</p>
+
+<p align="center">
+<img src="photo/网站2.jpg" alt="ppt" width="500"/>
+</p>
+
+
+
+<p align="center">
+<img src="photo/切割1.jpg" alt="ppt" width="500"/>
+</p>
+
+<p align="center">
+<img src="photo/切割3.jpg" alt="ppt" width="500"/>
+</p>
+
+<p align="center">
+<img src="photo/第二次激光切割.jpg" alt="ppt" width="500"/>
+</p>
+
+After cutting, I painted the wooden pieces with acrylic paint.
 
 激光切割后我又对木板进行丙烯颜料的上色。
 
