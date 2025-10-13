@@ -263,6 +263,9 @@ Assembly process
 <p align="center">
 <img src="photo/成品4.jpg" alt="ppt" width="600"/>
 </p>
+<p align="center">
+Appearance
+</p>
 
 <p align="center">
 <img src="photo/成品5.jpg" alt="ppt" width="600"/>
@@ -270,6 +273,9 @@ Assembly process
 
 <p align="center">
 <img src="photo/成品6.jpg" alt="ppt" width="600"/>
+</p>
+<p align="center">
+Transformable form
 </p>
 
 ## 6 Reflection and Summary
