@@ -72,7 +72,7 @@ I used Blender for modeling. The wing consists of three panels and two rotating 
 
 我使用blender进行建模，机翼由三个板块和两个转轴构成，转轴参考了一个类似结构的教学视频，其他部分完全是原创。因为对于建模软件的不熟悉，在建模过程中遇到了不少挑战。
 
-[参考视频链接](http://xhslink.com/o/3G0xTxjMuqY)
+[Reference video link 参考视频链接](http://xhslink.com/o/3G0xTxjMuqY)
 
 <p align="center">
 <img src="photo/建模1.jpg" alt="ppt" width="600"/>
