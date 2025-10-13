@@ -1,4 +1,4 @@
-# an-Arduino-enclosure-using-a-combination-of-3D-printing-and-laser-cutting
+# An-Arduino-enclosure-using-a-combination-of-3D-printing-and-laser-cutting
 ## 1 Worldview Discussion and Construction
 At the beginning, we worked in small groups to discuss and brainstorm possible worldviews. This step was essential, as it determines the rationality and consistency of the subsequent packaging design. We came up with several worldviews and further developed each one individually. The following sketches show part of our discussion process:
 
