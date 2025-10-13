@@ -163,15 +163,37 @@ After cutting, I painted the wooden pieces with acrylic paint.
 ## 4 Assembly
 During assembly, I found that the holes in my 3D-printed model were slightly too small (3.9mm), which made it difficult to fit the 3mm heat-set inserts properly, while the 2.5mm ones were too loose. Fortunately, using a soldering iron allowed me to install the inserts successfully. I originally installed five of them, but after my teacher’s advice, I realized only two were necessary since the structure’s load-bearing capacity was already sufficient.
 
-After consulting the teacher, I learned the correct way to combine the 3D-printed parts with the laser-cut wood: drill holes in the wood that exactly match the screw size (equal to the insert diameter). I used a punch to make the holes in the wooden board. In hindsight, if I had designed the holes during the laser-cutting stage, I could have skipped this step—but I had forgotten, so manual drilling was necessary.
-
-Finally, I selected appropriate screws for the heat-set inserts and used a screwdriver to attach the wood and 3D-printed parts together.
-
 在组装过程中，因为我对于3D打印的模型留孔略小（3.9mm），导致3mm的热熔螺母没办法很好地匹配，而2.5mm的又使孔显得略大。好在使用了电烙铁，能将热熔螺母安装进去。我安装了五个螺母，但在老师的提醒下，我意识到其实根本不需要装这么多，仅需两个就足够了，因为其承重足够大。
+<p align="center">
+<img src="photo/螺母1.jpg" alt="ppt" width="500"/>
+</p>
+
+<p align="center">
+<img src="photo/螺母2.jpg" alt="ppt" width="500"/>
+</p>
+
+After consulting the teacher, I learned the correct way to combine the 3D-printed parts with the laser-cut wood: drill holes in the wood that exactly match the screw size (equal to the insert diameter). I used a punch to make the holes in the wooden board. In hindsight, if I had designed the holes during the laser-cutting stage, I could have skipped this step—but I had forgotten, so manual drilling was necessary.
 
 在询问老师后，知道了该如何把3D打印和激光切割组合到一起——应该给木板打洞，并且洞要正好契合螺丝钉大小，即螺母直径。于是我使用了打孔机对切割好的木板进行打孔。其实如果在切割时直接切出孔，就可以省略这一步骤，但因为我忘记了，所以只能进行打孔。
 
+<p align="center">
+<img src="photo/打孔.jpg" alt="ppt" width="500"/>
+</p>
+
+Finally, I selected appropriate screws for the heat-set inserts and used a screwdriver to attach the wood and 3D-printed parts together.
+
 接着，我挑选了适合热熔螺母的螺丝，并使用螺丝刀将木板与3D打印出的物体固定在一起。
+<p align="center">
+<img src="photo/螺丝.jpg" alt="ppt" width="500"/>
+</p>
+
+<p align="center">
+<img src="photo/组装1.jpg" alt="ppt" width="600"/>
+</p>
+
+<p align="center">
+<img src="photo/组装2.jpg" alt="ppt" width="600"/>
+</p>
 
 ## 5 Final Product Display
 
