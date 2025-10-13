@@ -248,6 +248,30 @@ Assembly process
 
 ## 5 Final Product Display
 
+<p align="center">
+<img src="photo/成品1.jpg" alt="ppt" width="600"/>
+</p>
+
+<p align="center">
+<img src="photo/成品2.jpg" alt="ppt" width="600"/>
+</p>
+
+<p align="center">
+<img src="photo/成品3.jpg" alt="ppt" width="600"/>
+</p>
+
+<p align="center">
+<img src="photo/成品4.jpg" alt="ppt" width="600"/>
+</p>
+
+<p align="center">
+<img src="photo/成品5.jpg" alt="ppt" width="600"/>
+</p>
+
+<p align="center">
+<img src="photo/成品6.jpg" alt="ppt" width="600"/>
+</p>
+
 ## 6 Reflection and Summary
 Throughout this project, I found that the first step—constructing the worldview—was the most important. It set the overall tone and direction for everything that followed.
 
