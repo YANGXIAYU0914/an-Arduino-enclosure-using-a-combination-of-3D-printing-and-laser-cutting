@@ -7,11 +7,9 @@ At the beginning, we worked in small groups to discuss and brainstorm possible w
 <p align="center">
 <img src="photo/草图1.jpg" alt="ppt" width="500"/>
 </p>
-
 <p align="center">
-<img src="photo/草图2.jpg" alt="ppt" width="500"/>
+Sketches from the group discussion
 </p>
-
 
 I chose the setting of a “War and Data-Driven Future.”
 
@@ -56,6 +54,14 @@ Functions:
 
 3：资源管理：微型资源节点守护器，监测水、空气、能源等资源。
 
+
+<p align="center">
+<img src="photo/草图2.jpg" alt="ppt" width="500"/>
+</p>
+<p align="center">
+Design draft
+</p>
+
 ## 3 Making Process
 I began designing the outer packaging, which is divided into two parts: a 3D-printed wing and a laser-cut wooden box.
 
@@ -77,6 +83,9 @@ I used Blender for modeling. The wing consists of three panels and two rotating 
 <p align="center">
 <img src="photo/建模3.jpg" alt="ppt" width="600"/>
 </p>
+<p align="center">
+Blender model
+</p>
 
 Important note: When modeling in Blender, it’s crucial to pay attention to scale and unit settings. STL files only store the coordinate values of points without specifying whether the numbers represent meters, centimeters, or millimeters. As a result, in Blender, 1.0 might be interpreted as 1 meter, while in other software (such as Cura or Fusion 360), the same 1.0 would be interpreted as 1 millimeter—leading to a size difference of up to 1000 times when importing the model. I consulted ChatGPT about this issue and received useful guidance.
 
@@ -84,6 +93,9 @@ Important note: When modeling in Blender, it’s crucial to pay attention to sca
 
 <p align="center">
 <img src="photo/chatgpt.jpg" alt="ppt" width="600"/>
+</p>
+<p align="center">
+AI’s answer
 </p>
 
 After completing the model, I proceeded to 3D print it at the school’s workshop using an Ultimaker printer with PLA material. The printing process took more than ten hours. Because the bottom surface area was quite large, the model adhered tightly to the build plate, making it somewhat difficult to remove.
@@ -93,11 +105,16 @@ After completing the model, I proceeded to 3D print it at the school’s worksho
 <p align="center">
 <img src="photo/3D打印1.jpg" alt="ppt" width="500"/>
 </p>
+<p align="center">
+3D printing process
+</p>
 
 <p align="center">
 <img src="photo/3D打印2.jpg" alt="ppt" width="500"/>
 </p>
-
+<p align="center">
+Removing the printed object
+</p>
 
 ### 3.2 Laser Cutting
 I used the MakerCase website to generate the box’s shape. The line width and kerf compensation settings were crucial. After some testing, we found suitable parameters for cutting 3mm-thick wooden boards in the school workshop, ensuring the pieces fit together tightly and securely.
@@ -111,6 +128,9 @@ I used the MakerCase website to generate the box’s shape. The line width and k
 <p align="center">
 <img src="photo/尺寸2.jpg" alt="ppt" width="600"/>
 </p>
+<p align="center">
+Data
+</p>
 
 I then used Adobe Illustrator (AI) to refine the drawings, leaving openings for the Arduino’s USB port and round jack.
 
@@ -119,9 +139,15 @@ I then used Adobe Illustrator (AI) to refine the drawings, leaving openings for 
 <p align="center">
 <img src="photo/ai1.jpg" alt="ppt" width="600"/>
 </p>
+<p align="center">
+Original image
+</p>
 
 <p align="center">
 <img src="photo/ai2.jpg" alt="ppt" width="600"/>
+</p>
+<p align="center">
+Edited image
 </p>
 
 Problems encountered:
@@ -133,16 +159,23 @@ Initially, I entered the board thickness as 3mm on the website, but upon measure
 <p align="center">
 <img src="photo/游标卡尺.jpg" alt="ppt" width="500"/>
 </p>
+<p align="center">
+Measurement results
+</p>
 
 <p align="center">
 <img src="photo/网站1.jpg" alt="ppt" width="500"/>
+</p>
+<p align="center">
+Initially entered dimensions
 </p>
 
 <p align="center">
 <img src="photo/网站2.jpg" alt="ppt" width="500"/>
 </p>
-
-
+<p align="center">
+Revised dimensions
+</p>
 
 <p align="center">
 <img src="photo/切割1.jpg" alt="ppt" width="500"/>
@@ -151,9 +184,15 @@ Initially, I entered the board thickness as 3mm on the website, but upon measure
 <p align="center">
 <img src="photo/切割3.jpg" alt="ppt" width="500"/>
 </p>
+<p align="center">
+First laser cutting
+</p>
 
 <p align="center">
 <img src="photo/第二次激光切割.jpg" alt="ppt" width="500"/>
+</p>
+<p align="center">
+Second laser cutting
 </p>
 
 After cutting, I painted the wooden pieces with acrylic paint.
@@ -171,6 +210,9 @@ During assembly, I found that the holes in my 3D-printed model were slightly too
 <p align="center">
 <img src="photo/螺母2.jpg" alt="ppt" width="500"/>
 </p>
+<p align="center">
+Nut installation process
+</p>
 
 After consulting the teacher, I learned the correct way to combine the 3D-printed parts with the laser-cut wood: drill holes in the wood that exactly match the screw size (equal to the insert diameter). I used a punch to make the holes in the wooden board. In hindsight, if I had designed the holes during the laser-cutting stage, I could have skipped this step—but I had forgotten, so manual drilling was necessary.
 
@@ -179,12 +221,18 @@ After consulting the teacher, I learned the correct way to combine the 3D-printe
 <p align="center">
 <img src="photo/打孔.jpg" alt="ppt" width="500"/>
 </p>
+<p align="center">
+Hole puncher
+</p>
 
 Finally, I selected appropriate screws for the heat-set inserts and used a screwdriver to attach the wood and 3D-printed parts together.
 
 接着，我挑选了适合热熔螺母的螺丝，并使用螺丝刀将木板与3D打印出的物体固定在一起。
 <p align="center">
 <img src="photo/螺丝.jpg" alt="ppt" width="500"/>
+</p>
+<p align="center">
+Screw fastening process
 </p>
 
 <p align="center">
@@ -193,6 +241,9 @@ Finally, I selected appropriate screws for the heat-set inserts and used a screw
 
 <p align="center">
 <img src="photo/组装2.jpg" alt="ppt" width="600"/>
+</p>
+<p align="center">
+Assembly process
 </p>
 
 ## 5 Final Product Display
