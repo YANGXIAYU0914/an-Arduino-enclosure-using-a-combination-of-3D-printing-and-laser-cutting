@@ -122,6 +122,7 @@ Removing the printed object
 I used the MakerCase website to generate the box’s shape. The line width and kerf compensation settings were crucial. After some testing, we found suitable parameters for cutting 3mm-thick wooden boards in the school workshop, ensuring the pieces fit together tightly and securely.
 
 我使用了MakerCase网站制作盒子外形，切割线宽度和切割补偿设置非常重要。在经过我们的尝试，在学校工坊并使用3mm厚的木板进行切割时，以下这组数据是较为合适的，切出来的木板可以很紧、很牢固地组合在一起。
+[MakerCase](https://www.makercase.com/)
 
 <p align="center">
 <img src="photo/尺寸1.jpg" alt="ppt" width="600"/>
