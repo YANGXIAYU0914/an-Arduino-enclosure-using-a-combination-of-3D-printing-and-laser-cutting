@@ -3,6 +3,13 @@
 At the beginning, we worked in small groups to discuss and brainstorm possible worldviews. This step was essential, as it determines the rationality and consistency of the subsequent packaging design. We came up with several worldviews and further developed each one individually. The following sketches show part of our discussion process:
 
 最开始我们以一个小组为单位，对于世界观的设定进行讨论、进行头脑风暴。这个步骤是不可缺少的，因为这决定着后续设计包装的合理性。我们想出了几个世界观，并对它进行各自的深化。以下是我们在讨论过程中的草图：
+<p align="center">
+<img src="photo/草图1.jpg" alt="ppt" width="500"/>
+</p>
+
+<img src="photo/草图2.jpg" alt="ppt" width="500"/>
+</p>
+
 
 I chose the setting of a “War and Data-Driven Future.”
 
@@ -15,8 +22,11 @@ With the extreme advancement of technology, the nature of warfare has changed dr
 In such an era, the main focus of conflict is no longer territory, but “the control of resource circulation.” Rare minerals, clean water sources, and artificial ecological zones have become core assets contested by federations. To balance interests, they often sign temporary “data treaties,” using digital methods to share resources or exert informational pressure. Social contracts have evolved accordingly, emphasizing “information transparency” and “resource traceability.” Every individual may become a node in this data-driven war.
 
 我选择了“战争、数据化未来”这个设定。于是我对于这个设定进行扩展：
+
 约在公元2200年，全球因资源枯竭而陷入持续的能源危机。传统的国家边界逐渐模糊，人类社会重组为若干“国家体”，继而演化为多个“联邦体”。这些联邦之间因资源分配与控制频繁爆发冲突，甚至演变为全面战争。
+
 由于科技的高度发展，战争形态已与过去截然不同。取代传统的冷战与热战，“数字生物战争”成为主流。这种战争以数据为武器，以生物与环境为战场——通过环境数据监控、化学物质释放与算法控制，实现对生态与人群的精准干预。
+
 在这样的时代，冲突的焦点不再是领土，而是“资源流通的控制权”。稀有矿物、洁净水源、人工生态区等，皆成为各联邦争夺的核心资产。为了平衡利益，它们常签署临时“数据协议”，以数字化手段共享资源或施加信息压力。社会契约也随之演变，强调“信息透明”与“资源可追溯”，每一个人都可能成为数据战争的节点。
 
 ## 2 Packaging Design Process
