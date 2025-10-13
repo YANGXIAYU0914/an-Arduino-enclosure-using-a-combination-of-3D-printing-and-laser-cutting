@@ -98,9 +98,6 @@ After completing the model, I proceeded to 3D print it at the school’s worksho
 <img src="photo/3D打印2.jpg" alt="ppt" width="500"/>
 </p>
 
-<p align="center">
-<img src="photo/3D打印3.jpg" alt="ppt" width="500"/>
-</p>
 
 ### 3.2 Laser Cutting
 I used the MakerCase website to generate the box’s shape. The line width and kerf compensation settings were crucial. After some testing, we found suitable parameters for cutting 3mm-thick wooden boards in the school workshop, ensuring the pieces fit together tightly and securely.
